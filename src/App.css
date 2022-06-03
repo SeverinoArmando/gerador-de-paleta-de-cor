@@ -1,0 +1,53 @@
+.geratorColor_section{
+  background-color: rgba(255, 255, 255, 0.534); 
+  margin-bottom: 20px;
+}
+.generator_section__form{
+  display: flex;
+  gap: .5rem;
+  border-style: none;
+}
+.titulo_principal{
+  font-size: 3vw;
+  font-family: sans-serif;
+  color: white;
+  text-shadow: 0 0 5px rgba(44, 44, 44, 0.705);
+}
+.logo_marca{
+  width: 15vw;
+  /* border-radius: .1in; */
+  border-top-left-radius: .2in;
+  border-bottom-right-radius: .2in;
+  box-shadow: 0 0 9px rgba(44, 44, 44, 0.705);
+}
+
+.section_form__input{
+  width: 100%;
+  text-align: center;
+  border-top-left-radius: .2in;
+  border-bottom-right-radius: .2in;
+  border: none;
+  box-shadow: 0 0 8px rgba(44, 44, 44, 0.705);;
+}
+.section_form__button{
+  border: none;
+  padding: 10px;
+  border-radius: 4px;
+  color: white;
+  font-weight: 700;
+  border-top-left-radius: .2in;
+  border-bottom-right-radius: .2in;
+  text-shadow: 1px 1px 4px rgba(44, 44, 44, 0.705); 
+  box-shadow: 0 0 8px rgba(44, 44, 44, 0.705);;
+}
+.section_form__button:hover{
+  background-color: rgb(192, 192, 197);
+}
+.section_form__button:active{
+  background-color: #7c7b7c;
+}
+.generatorColor_container__section{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}

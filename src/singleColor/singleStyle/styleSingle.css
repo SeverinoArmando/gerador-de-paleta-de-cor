@@ -1,0 +1,27 @@
+.generatorColor_container__section article{
+    display: flex;
+    flex-direction: column-reverse;
+    width: 24%;
+    height: 2.5in;
+    margin: 3px;
+    box-shadow: 0 0 8px rgba(44, 44, 44, 0.705);
+    border-top-left-radius: .2in;
+    border-bottom-right-radius: .2in;
+}
+.porentage_valor_bcg, .alertaDeCopia{
+    text-shadow: 0 0 3.5px rgb(0, 0, 0);
+    color: white;
+}
+.paleta_DeCor__Background{
+    text-align: center;
+}
+.paleta_DeCor__branco{
+    color: white;
+    text-shadow: 0 0 3.5px rgb(0, 0, 0);
+
+}
+.generatorColor_container__section{
+    display: flex;
+    margin-top: 5px;
+    box-shadow: 0 0 48px rgba(44, 44, 44, 0.705);;
+}
